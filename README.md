@@ -9,19 +9,21 @@
 </p>
 
 <br>
+<p align="center">
 Ce projet utilisera html, CSS et Vanilla Javascript et l'Api de QRcodeAPI.
+</p>
 <br>
 
 
  ## l'Api de QRcodeAPI ##
  QrcodeAPI :
- lien : https://goqr.me/api/
- documentation : https://goqr.me/api/doc/
+ - lien : https://goqr.me/api/
+ - Documentation : https://goqr.me/api/doc/
  
  <br>
- 
+ <p align="center">
  Essayez "Mon Qr Code" : https://100sue.github.io/dev-QR-code-generator/
- 
+ </p>
 
  
   
