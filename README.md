@@ -20,7 +20,7 @@ Ce projet utilisera html, CSS et Vanilla Javascript et l'Api de QRcodeAPI.
  
  <br>
  
- Essayez "Mon Qr Code" :
+ Essayez "Mon Qr Code" : https://100sue.github.io/dev-QR-code-generator/
  
 
  
