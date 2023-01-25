@@ -9,9 +9,9 @@ Création de son propre "QR Code" : en 30 secondes créer votre propre QR code e
 
 
 <br>
-<p align="center">
+
 Ce projet utilisera html, CSS et Vanilla Javascript et l'Api de QRcodeAPI.
-</p>
+
 <br>
 
 
