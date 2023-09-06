@@ -31,6 +31,10 @@ Ce projet fait partie d'un ensemble de projet denommé "Ma Boite a outil de fron
 Tant qu'a faire autant construire ces propres outils !!! :)
 
 <br>
+"Ma Boite a outil de front-end" :
+- " Generateur de gradient", génerateur de gradiant : https://100sue.github.io/dev-gradient/
+  <br>
+ "Ma palette" : https://100sue.github.io/dev-couleurs/
 
 
  ## l'Api de QRcodeAPI ##
