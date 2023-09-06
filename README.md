@@ -49,10 +49,9 @@ Tant qu'a faire autant construire ces propres outils !!! :)
 </p>
  <br>
  
-<h3 align="center">Web Developper - Full Stack</h3>
+<h3 align="center" color="blue">Web Developper - Full Stack</h3>
 <p style="margin: 15px;" align="center">
-     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=005C96&center=true&vCenter=true&lines=Developer+fullstack;Nuxt+addict;vuejs+for+life,Blender+addict">
-     <h3 align="center">I'm web developper and I make some application, and some others stuff in developement.</h3>
+     <h3 align="center">Hi,I'm web developer and I make some application, and some others stuff in developement.</h3>
 </p>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
