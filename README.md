@@ -31,11 +31,13 @@ Ce projet fait partie d'un ensemble de projet denommé "Ma Boite a outil de fron
 Tant qu'a faire autant construire ces propres outils !!! :)
 
 <br>
-"Ma Boite a outil de front-end" :
+<h3 align="center">"Ma Boite a outil de front-end" :</h3>
 <br>
+<p align="center">
 - " Generateur de gradient": https://100sue.github.io/dev-gradient/
   <br>
 - " Generateur de Couleurs" : https://100sue.github.io/dev-couleurs/
+</p>
 <br>
 
  ## l'Api de QRcodeAPI ##
