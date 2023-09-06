@@ -58,4 +58,13 @@ Tant qu'a faire autant construire ces propres outils !!! :)
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/roland-appert/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roland-appert/" height="30" width="40" /></a>
 </p>
 <br/>
+
+<h1 align="center">Contact Me</h1>
+<h3 align="center">If you need my expertise for your project <br>👇</h3>
+<p align="center">
   
+<p align="center">
+    - <a href="mailto:scoreur@gmail.com">Send email</a> -
+    <p style='margin-bottom: 40px'>
+    </p>
+</p>  
