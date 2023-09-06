@@ -32,10 +32,11 @@ Tant qu'a faire autant construire ces propres outils !!! :)
 
 <br>
 "Ma Boite a outil de front-end" :
-- " Generateur de gradient", génerateur de gradiant : https://100sue.github.io/dev-gradient/
+<br>
+- " Generateur de gradient": https://100sue.github.io/dev-gradient/
   <br>
- "Ma palette" : https://100sue.github.io/dev-couleurs/
-
+- " Generateur de Couleurs" : https://100sue.github.io/dev-couleurs/
+<br>
 
  ## l'Api de QRcodeAPI ##
  QrcodeAPI :
