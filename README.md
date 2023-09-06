@@ -47,5 +47,16 @@ Tant qu'a faire autant construire ces propres outils !!! :)
 <p align="center">
 <img src=  "https://user-images.githubusercontent.com/90606431/214551725-ffcd89a2-c40d-4451-96f7-6f9ad0bac13a.png" />
 </p>
+ <br>
  
+<h3 align="center">Web Developper - Full Stack</h3>
+<p style="margin: 15px;" align="center">
+     <img src="https://readme-typing-svg.herokuapp.com?duration=2000&color=005C96&center=true&vCenter=true&lines=Developer+fullstack;Nuxt+addict;vuejs+for+life,Blender+addict">
+     <h3 align="center">I'm web developper and I make some application, and some others stuff in developement.</h3>
+</p>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/roland-appert/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/roland-appert/" height="30" width="40" /></a>
+</p>
+<br/>
   
