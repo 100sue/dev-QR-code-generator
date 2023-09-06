@@ -48,9 +48,10 @@ Tant qu'a faire autant construire ces propres outils !!! :)
 <img src=  "https://user-images.githubusercontent.com/90606431/214551725-ffcd89a2-c40d-4451-96f7-6f9ad0bac13a.png" />
 </p>
 
- <br>
- 
-<h3 align="center">Web Developer - Full Stack</h3>
+<br>
+<br>
+  
+<h1 align="center">Web Developer - Full Stack</h1>
 
 <p style="margin: 15px;" align="center">
      <h3 align="center">Hi, I'm web developer and I make some application, and some others stuff in developement.</h3>
