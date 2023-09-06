@@ -1,15 +1,15 @@
-<h1 align="center">Languages and Tools 🛠 : </h1>
+<h1 align="center"> Generateur de QR Code </h1>
 
 <p align="center">
 
-<h3 align="center">Basics :</h3>
+<h3 align="center">Languages and Tools 🛠 :</h3>
 <p align="center">
     <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
     <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a>
 </p>
 
-## Mini-Projet : Mon QR Code ##
+## Projet : Mon QR Code ##
 
 <p align="center">
 <img src= "https://github.com/100sue/dev-QR-code-generator/assets/90606431/b771541e-7e20-4bb3-ac59-bef515c6f14f"/>
@@ -23,6 +23,12 @@ Création de son propre "QR Code" : en 30 secondes créer votre propre QR code e
 <br>
 
 Ce projet utilisera Html, CSS, Vanilla Javascript et l'Api de QRcodeAPI.
+
+<br>
+<br>
+
+Ce projet fait partie d'un ensemble de projet denommé "Ma Boite a outil de front-end", regroupant des generateurs de box-shadow, des generateurs de gradiant, de blob-maker, de couleurs, etc ... .
+Tant qu'a faire autant construire ces propres outils !!! :)
 
 <br>
 
