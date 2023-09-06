@@ -50,7 +50,7 @@ Tant qu'a faire autant construire ces propres outils !!! :)
 
  <br>
  
-<h1 align="center">Web Developer - Full Stack</h1>
+<h3 align="center"color="pink">Web Developer - Full Stack</h3>
 
 <p style="margin: 15px;" align="center">
      <h3 align="center">Hi,I'm web developer and I make some application, and some others stuff in developement.</h3>
